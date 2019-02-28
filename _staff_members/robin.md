@@ -1,7 +1,7 @@
 ---
-name: Robin Herrera
+name: Person
 position: CEO
-image_path: https://source.unsplash.com/collection/139386/605x605?a=.png
-twitter: CloudCannonApp
-blurb: Robin is often found tending to her majestic vegetable garden.
+image_path: https://via.placeholder.com/600x600
+twitter:
+blurb:
 ---
