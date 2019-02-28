@@ -16,10 +16,9 @@
   highlight: false
 - name: Colpensiones
   link: /colpensiones
-  new_window: true
+  new_window: false
   highlight: false
 - name: About Us
   link: /about
-  new_window: true
+  new_window: false
   highlight: false
-
