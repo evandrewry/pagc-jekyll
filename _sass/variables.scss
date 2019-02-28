@@ -1,8 +1,9 @@
-$brand-color: green;
+$nav-link-color: black;
+$brand-color: white;
 $secondary-brand-color: yellowgreen;
-$middle-gradient-color: mix($brand-color, $secondary-brand-color, 95%);
+$middle-gradient-color: mix(green, $secondary-brand-color, 95%);
 
 // Breakpoints
 $tablet: "(min-width: 450px)";
-$mid-point: "(min-width: 620px)";
-$desktop: "(min-width: 768px)";
+$mid-point: "(min-width: 790px)";
+$desktop: "(min-width: 790px)";

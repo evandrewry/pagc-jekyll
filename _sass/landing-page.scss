@@ -1,11 +1,11 @@
 .partners {
   text-align: right;
-  background: #{$middle-gradient-color};
+  background: $brand-color;
   a {
     margin: 0 3px;
     padding: 20px 10px;
     border-bottom: 1px solid rgba(255,255,255,0);
-    color: rgba(255,255,255,.8);
+    color: $nav-link-color;
     transition: .2s ease-in-out;
 
     @media #{$mid-point} {
@@ -50,7 +50,7 @@
   color: #ffffff;
   text-align: center;
   background: linear-gradient(to bottom, $middle-gradient-color 0%, $secondary-brand-color 100%) no-repeat #a05fb7;
-  padding-top: 50px;
+  padding: 50px 0;
 
   p {
     color: #fff;
