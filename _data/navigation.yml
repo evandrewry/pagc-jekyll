@@ -1,0 +1,25 @@
+- name: PagPropina
+  link: /pagpropina/
+  new_window: false
+  highlight: false
+- name: PagCafé
+  link: /pagcafe/
+  new_window: false
+  highlight: false
+- name: Mission
+  link: /mission/
+  new_window: false
+  highlight: false
+- name: Café Colombiano
+  link: /cafecolombiano/
+  new_window: false
+  highlight: false
+- name: Colpensiones
+  link: /colpensiones
+  new_window: true
+  highlight: false
+- name: About Us
+  link: /about
+  new_window: true
+  highlight: false
+
